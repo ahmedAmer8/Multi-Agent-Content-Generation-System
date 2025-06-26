@@ -23,10 +23,10 @@ AI Research & Writing Crew/
 ├── agents.py          # AI agent definitions
 ├── tasks.py           # Task configurations
 ├── tools.py           # External tool integrations
-├── crew.py            # Crew orchestration (standalone)
+├── crew.py            # Crew orchestration 
 ├── app.py             # Streamlit web application
 ├── requirements.txt   # Python dependencies
-├── .env              # Environment variables (create this)
+├── .env              # Environment variables
 └── README.md         # Project documentation
 ```
 

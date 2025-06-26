@@ -1,14 +1,9 @@
-"""
-Enhanced Crew Configuration for AI Research & Writing
-Supports both standalone execution and integration with Streamlit app
-"""
 
 import os
 import sys
 from datetime import datetime
 from dotenv import load_dotenv
 
-# Load environment variables
 load_dotenv()
 
 def check_requirements():
