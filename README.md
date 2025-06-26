@@ -20,14 +20,14 @@ The application follows a modular architecture with clear separation of concerns
 
 ```
 AI Research & Writing Crew/
-├── agents.py          # AI agent definitions
-├── tasks.py           # Task configurations
-├── tools.py           # External tool integrations
-├── crew.py            # Crew orchestration 
-├── app.py             # Streamlit web application
-├── requirements.txt   # Python dependencies
-├── .env              # Environment variables
-└── README.md         # Project documentation
+├── agents.py         
+├── tasks.py          
+├── tools.py       
+├── crew.py          
+├── app.py           
+├── requirements.txt   
+├── .env             
+└── README.md      
 ```
 
 ### 🔧 Core Components
@@ -64,7 +64,7 @@ AI Research & Writing Crew/
 
 ```bash
 # Clone the repository
-git clone <your-repo-url>
+git clone https://github.com/ahmedAmer8/Multi-Agent-Content-Generation-System.git
 cd ai-research-writing-crew
 
 # Create virtual environment
