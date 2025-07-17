@@ -2,7 +2,12 @@
 
 A powerful multi-agent AI system built with CrewAI, Streamlit, and Google Gemini that automatically researches topics and generates compelling articles. This application leverages the power of AI agents working collaboratively to produce high-quality content.
 
-[![Watch the video](assets/demo.jpg)](https://youtu.be/xX8Rcdwm2YE)
+## 🎥 Demo
+
+You can watch a demo of my app by clicking the image below:
+
+[![Watch the demo](assets/demo.jpg)](https://youtu.be/xX8Rcdwm2YE)
+
 
 
 ## 🌟 Features
