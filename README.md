@@ -289,34 +289,3 @@ See `requirements.txt` for complete list of dependencies with version specificat
 4. Push to branch: `git push origin feature/amazing-feature`
 5. Open a Pull Request
 
-## 📄 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## 🙏 Acknowledgments
-
-- **CrewAI Team**: For the amazing multi-agent framework
-- **Google**: For the powerful Gemini language model
-- **Serper**: For reliable web search capabilities
-- **Streamlit**: For the intuitive web framework
-
-## 📞 Support
-
-For support, questions, or suggestions:
-- Open an issue on GitHub
-- Check the troubleshooting section
-- Review CrewAI documentation
-
-## 🚀 Future Enhancements
-
-- [ ] Support for multiple LLM providers
-- [ ] Custom agent templates
-- [ ] Advanced scheduling capabilities
-- [ ] Integration with more research tools
-- [ ] Export to multiple formats (PDF, DOCX)
-- [ ] Multi-language support
-- [ ] Advanced analytics and reporting
-
----
-
-Built with ❤️ using CrewAI, Streamlit, and Google Gemini
